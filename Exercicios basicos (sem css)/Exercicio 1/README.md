@@ -4,7 +4,7 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ---
 
-###Lista de exercicios: 
+##Lista de exercicios: 
 
 ## Exercício 1: CartaoDePerfil
 
