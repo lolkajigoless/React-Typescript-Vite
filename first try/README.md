@@ -1,4 +1,4 @@
-#Este é um projeto base utilizando **React**, **TypeScript** e **Vite**. Minha primeira vez codando com essas tecnologias.
+# Este é um projeto base utilizando **React**, **TypeScript** e **Vite**. Minha primeira vez codando com essas tecnologias.
 
 ## Tecnologias
 
