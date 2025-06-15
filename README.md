@@ -14,8 +14,6 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ## Lista de Exercícios
 
----
-
 ### Exercício 1: `CartaoDePerfil`
 
 **Objetivo**: Criar um componente que exibe nome, idade e cidade de uma pessoa.
