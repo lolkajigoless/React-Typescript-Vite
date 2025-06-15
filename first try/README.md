@@ -1,6 +1,6 @@
 ## Este é um projeto base utilizando **React**, **TypeScript** e **Vite**. Minha primeira vez codando com essas tecnologias.
 
-## Tecnologias
+### Tecnologias
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
