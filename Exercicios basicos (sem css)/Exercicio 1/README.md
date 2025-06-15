@@ -18,7 +18,6 @@ Requisitos:
   cidade: string
 - Use o componente no App.tsx com pelo menos 2 pessoas diferentes
 
---
 
 ## Exercício 2: BotaoPersonalizado
 
@@ -33,7 +32,6 @@ Requisitos:
 -use a prop cor para definir o backgroundColor com style
 -Use 3 botões com cores diferentes
 
---
 
 ## Exercício 3: Mensagem
 
@@ -47,7 +45,6 @@ Requisitos:
   importante: boolean
 -Se importante for true, use <strong>, senão apenas <p>
 
---
 
 ## Exercício 4 (DESAFIO): Tarefa + ListaDeTarefas
 
@@ -61,7 +58,6 @@ Requisitos:
 -Exibir ✔️ se concluida === true, ❌ caso contrário
 -Criar uma lista de 3 tarefas no App.tsx
 
---
 
 ## Exercício 5: ImagemDePerfil
 
