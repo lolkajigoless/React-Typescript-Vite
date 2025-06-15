@@ -43,7 +43,7 @@ Requisitos:
 -Props:
   texto: string
   importante: boolean
--Se importante for true, use <strong>, senão apenas <p>
+-Se importante for true, use `<strong>`, senão apenas `<p>`
 
 
 ## Exercício 4 (DESAFIO): Tarefa + ListaDeTarefas
