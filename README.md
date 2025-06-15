@@ -6,7 +6,7 @@ Este repositório contém exercícios práticos e projetos com **React moderno c
 - Reutilização com Props
 - Tipagem forte com TypeScript
 
-- ## Contato
+## Contato
 
 Se quiser entrar em contato, colaborar ou tirar dúvidas:
 
