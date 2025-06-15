@@ -5,3 +5,12 @@ Este repositório contém exercícios práticos e projetos com **React moderno c
 - Componentes funcionais
 - Reutilização com Props
 - Tipagem forte com TypeScript
+
+- ## Contato
+
+Se quiser entrar em contato, colaborar ou tirar dúvidas:
+
+- **Autor:** lolkajigoless  
+- **GitHub:** [https://github.com/lolkajigoless](https://github.com/lolkajigoless)   
+- **Email:** abracadabraalakazam92@gmail.com*  
+
