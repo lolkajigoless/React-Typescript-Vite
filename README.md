@@ -6,10 +6,6 @@ Este repositório contém exercícios práticos e projetos com **React moderno c
 - Reutilização com Props
 - Tipagem forte com TypeScript
 
-# Exercícios - React + Vite + TypeScript (Componentes + Props)
-
-Este projeto contém exercícios práticos para treinar a criação de **componentes reutilizáveis com props e tipagem TypeScript** em React, utilizando o Vite.
-
 ---
 
 ## Lista de Exercícios
