@@ -1,14 +1,14 @@
-# 🧩 Exercícios - React + Vite + TypeScript (Componentes + Props)
+# Exercícios - React + Vite + TypeScript (Componentes + Props)
 
 Este projeto contém exercícios práticos para treinar a criação de **componentes reutilizáveis com props e tipagem TypeScript** em React, utilizando o Vite.
 
 ---
 
-## 📋 Lista de Exercícios
+## Lista de Exercícios
 
 ---
 
-### ✅ Exercício 1: `CartaoDePerfil`
+### Exercício 1: `CartaoDePerfil`
 
 **Objetivo**: Criar um componente que exibe nome, idade e cidade de uma pessoa.
 
@@ -22,7 +22,7 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ---
 
-### ✅ Exercício 2: `BotaoPersonalizado`
+### Exercício 2: `BotaoPersonalizado`
 
 **Objetivo**: Criar um botão com texto e cor de fundo passados por props.
 
@@ -36,7 +36,7 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ---
 
-### ✅ Exercício 3: `Mensagem`
+### Exercício 3: `Mensagem`
 
 **Objetivo**: Criar um componente que exibe uma frase simples. Se for importante, mostrar em negrito.
 
@@ -49,7 +49,7 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ---
 
-### ✅ Exercício 4 (DESAFIO): `Tarefa` + `ListaDeTarefas`
+### Exercício 4 (DESAFIO): `Tarefa` + `ListaDeTarefas`
 
 **Objetivo**: Criar uma lista de tarefas com um ícone ✔️ ou ❌ indicando se foi concluída.
 
@@ -63,7 +63,7 @@ Este projeto contém exercícios práticos para treinar a criação de **compone
 
 ---
 
-### ✅ Exercício 5: `ImagemDePerfil`
+### Exercício 5: `ImagemDePerfil`
 
 **Objetivo**: Mostrar a foto de uma pessoa com o nome abaixo, usando uma borda arredondada.
 
