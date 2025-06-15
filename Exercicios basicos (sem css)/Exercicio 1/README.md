@@ -1,54 +1,78 @@
-# React + TypeScript + Vite
+# Exercícios - React + Vite + TypeScript (Componentes + Props)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto contém exercícios práticos para treinar a criação de **componentes reutilizáveis com props e tipagem TypeScript** em React, utilizando o Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###Lista de exercicios: 
 
-## Expanding the ESLint configuration
+## Exercício 1: CartaoDePerfil
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+**Objetivo**: Criar um componente que exibe nome, idade e cidade de uma pessoa.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+Requisitos:
+- Nome do componente: CartaoDePerfil
+- Props:
+  nome: string
+  idade: number
+  cidade: string
+- Use o componente no App.tsx com pelo menos 2 pessoas diferentes
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+--
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Exercício 2: BotaoPersonalizado
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+**Objetivo**: Criar um botão com texto e cor de fundo passados por props.
+
+Requisitos:
+
+-Nome do componente: BotaoPersonalizado
+-Props:
+  texto: string
+  cor: string
+-use a prop cor para definir o backgroundColor com style
+-Use 3 botões com cores diferentes
+
+--
+
+## Exercício 3: Mensagem
+
+**Objetivo**: Criar um componente que exibe uma frase simples. Se for importante, mostrar em negrito.
+
+Requisitos:
+
+-Nome do componente: Mensagem
+-Props:
+  texto: string
+  importante: boolean
+-Se importante for true, use <strong>, senão apenas <p>
+
+--
+
+## Exercício 4 (DESAFIO): Tarefa + ListaDeTarefas
+
+**Objetivo**: Criar uma lista de tarefas com um ícone ✔️ ou ❌ indicando se foi concluída.
+
+Requisitos:
+-Nome do componente: Tarefa
+-Props:
+  descricao: string
+  concluida: boolean
+-Exibir ✔️ se concluida === true, ❌ caso contrário
+-Criar uma lista de 3 tarefas no App.tsx
+
+--
+
+## Exercício 5: ImagemDePerfil
+
+**Objetivo**: Mostrar a foto de uma pessoa com o nome abaixo, usando uma borda arredondada.
+
+Requisitos:
+
+-Nome do componente: ImagemDePerfil
+-Props:
+  nome: string
+  fotoUrl: string
+-Estilize a imagem com borda circular
+-Mostre o nome abaixo da imagem
+
