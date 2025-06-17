@@ -79,18 +79,18 @@ Este repositório contém exercícios práticos e projetos com **React moderno c
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 Siga os passos abaixo para rodar este projeto localmente:
 
-### ✅ Pré-requisitos
+### Pré-requisitos
 
 - [Node.js](https://nodejs.org/) instalado (recomenda-se versão LTS)
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) instalado
 
 ---
 
-### 🔧 Passo a passo
+### Passo a passo
 
 1. **Clone o repositório**
 
@@ -134,7 +134,7 @@ yarn dev
 
 ---
 
-### 🌐 Acesse no navegador
+### Acesse no navegador
 
 ```
 http://localhost:5173
