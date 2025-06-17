@@ -77,6 +77,73 @@ Este repositório contém exercícios práticos e projetos com **React moderno c
 - Estilize a imagem com borda circular
 - Mostre o nome abaixo da imagem
 
+---
+
+## 🚀 Como Rodar o Projeto
+
+Siga os passos abaixo para rodar este projeto localmente:
+
+### ✅ Pré-requisitos
+
+- [Node.js](https://nodejs.org/) instalado (recomenda-se versão LTS)
+- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) instalado
+
+---
+
+### 🔧 Passo a passo
+
+1. **Clone o repositório**
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. **Acesse a pasta do projeto**
+
+```bash
+cd nome-da-pasta
+```
+
+3. **Instale as dependências**
+
+Com npm:
+
+```bash
+npm install
+```
+
+Com yarn:
+
+```bash
+yarn install
+```
+
+4. **Inicie o servidor de desenvolvimento**
+
+Com npm:
+
+```bash
+npm run dev
+```
+
+Com yarn:
+
+```bash
+yarn dev
+```
+
+---
+
+### 🌐 Acesse no navegador
+
+```
+http://localhost:5173
+```
+
+(ou outra porta que o terminal mostrar)
+
+---
+
 ## Contato
 
 Se quiser entrar em contato, colaborar ou tirar dúvidas:
